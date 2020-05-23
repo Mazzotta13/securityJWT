@@ -243,7 +243,7 @@ TEST
 1) Ottenere token: Su Postman effettuare call POST a localhost:8080/authenticate.
 - body:
 {
-	"usernmae": "javainuse",
+	"username": "javainuse",
 	"password": "password"
 }
 2) accedere a localhost:8080/hello validando il token:
